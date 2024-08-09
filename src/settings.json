@@ -1,0 +1,125 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "NavbarSimple"
+    },
+    {
+      "id": "NavbarSimple"
+    },
+    {
+      "id": "NewsletterSimpleStacked"
+    },
+    {
+      "id": "FooterSocialLinksOnly"
+    },
+    {
+      "id": "StatsSimple"
+    },
+    {
+      "id": "FooterFourColumnWithCompanyMission"
+    },
+    {
+      "id": "FooterFourColumnWithNewsletterBelow"
+    },
+    {
+      "id": "FooterFourColumnWithNewsletter"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    },
+    {
+      "id": "NewsletterSimpleSideBySide"
+    },
+    {
+      "id": "NewsletterSideBySideOnCard"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FaqsCenteredAccordion"
+    },
+    {
+      "id": "StatsSplitWithImage"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "StatsWithDescription"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaTwoColumnsWithPhoto"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "CtaSimpleJustified"
+    },
+    {
+      "id": "CtaWithAppScreenshot"
+    },
+    {
+      "id": "TestimonialsOffWhiteGrid"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "HeroWithPhoneMockup"
+    },
+    {
+      "id": "HeroWithOffsetImage"
+    },
+    {
+      "id": "HeroWithAngledImageOnRight"
+    },
+    {
+      "id": "HeroSplitWithScreenshot"
+    },
+    {
+      "id": "BannerWithButton"
+    },
+    {
+      "id": "HeroSplitWithImage"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "HeroWithOffsetImage"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "font": "",
+  "theme": "neo-brutal",
+  "title": "Drive Your Ambition",
+  "subtitle": "Streamlined Car Rentals for Professionals on the Go"
+}
